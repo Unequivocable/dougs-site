@@ -1,0 +1,17 @@
+$theme-colors: (
+    "primary": #faf1e5,
+    "secondary": #f0ebe4,
+    "light": rgba(224, 217, 217, 0),
+    "blue": #007677,
+    "red": #81003B,
+    "black":#2F4858,
+    "green":#46B57C,
+    "brown":#574142,
+    "yellow":#FFFFD0,
+    "top": #c46f75,
+    "bottom": #c05749,
+    "next": #ffc2ae
+
+);
+
+@import "~bootstrap/scss/bootstrap";
