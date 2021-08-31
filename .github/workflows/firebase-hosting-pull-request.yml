@@ -13,6 +13,8 @@ jobs:
         run: sudo npm i
       - name: Build Prod App
         run : npm run build
+        env:
+            REACT_APP_PASSWORD: ${{secrets.EBOOK_PASSWORD}}
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
