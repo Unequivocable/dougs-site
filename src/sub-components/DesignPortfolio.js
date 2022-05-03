@@ -13,7 +13,7 @@ const DesignPortfolio = (props) => {
         <Card.Img variant="top" src={props.src} alt={props.alt}  />
         <Card.Title style={{ margin: "8px 0 0 0" }}><h3>{props.title}</h3></Card.Title>
         <Card.Text>
-          <br />
+          {/* <br /> */}
           <p>{props.text}</p>
         </Card.Text>
       </Card.Body>

@@ -15,8 +15,6 @@ const Home = () => {
         <section>
           <article className="portfolio">
             <p>These are the photos that go along with my book.
-              You can purchase the ebook
-              <a href="https://www.amazon.ca/Adventures-Experiencing-Gods-Faithfulness-Siggelkow-ebook/dp/B09V4C92HH">here</a>
             </p>
           </article>
           </section>
