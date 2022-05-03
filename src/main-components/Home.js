@@ -1,6 +1,6 @@
 import React from "react";
 import { Row, Col, Container } from "react-bootstrap";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import data from "../database/data";
 import Header from "../sub-components/Header";
 import DesignPortfolio from "../sub-components/DesignPortfolio";
