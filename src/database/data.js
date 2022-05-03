@@ -2,39 +2,39 @@
 
 const data = [
     {
-    title: "Where it all started",
-    text: "... quote from the book about something.  (page 21).",
-    alt: "Wheatfields of Saskatchewan",
+    title: "Douglas with Grandma Lincoln",
+    text: "Chapter 1, page 1",
+    alt: "Douglas with Grandma Lincoln",
     sm: "auto",
     md: "auto",
     lg: "auto",
     color: "primary",
     bordercolor: "dark",
-    src: "/photos/pexels-pixabay-289334.jpg",
+    src: "/photos/1-1.jpg",
     rotate: "rotate-left"
   },
   {
-      title: "My youngest grandson",
-      text: "... quote from the book about something.  (page 21).",
-      alt: "Bohdan James Siggelkow",
+      title: "Sisters giving approval to the 1st haircut",
+      text: "Chapter 1, page 2",
+      alt: "Sisters giving approval to the 1st haircut",
       sm: "auto",
       md: "auto",
-      lg: 5,
+      lg: "auto",
       color: "secondary",
       bordercolor: "dark",
-      src: "/photos/982.jpg",
+      src: "/photos/1-2.jpg",
       rotate: "rotate-middle"
   },
   {
-    title: "Dark skies ahead",
-    text: "... another quote from the book about something.  (page 21).",
-    alt: "prarie skies",
+    title: "Me and Carolyn in my wagon",
+    text: "Chapter 1, page 3",
+    alt: "Me and Carolyn in my wagon",
     sm: "auto",
     md: "auto",
-    lg: 7,
+    lg: "auto",
     color: "secondary",
     bordercolor: "dark",
-    src: "/photos/pexels-gian-fabrizio-torre-3700908.jpg",
+    src: "/photos/1-3.jpg",
     rotate: "rotate-right"
 }
 
