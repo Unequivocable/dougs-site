@@ -29,12 +29,13 @@ const Ebook = () => {
               target="_blank"
               rel="noreferrer"
             >
-              here
+              <button>
+              here</button>
             </a>
           </p>
           <p>
             If you have the password, you can view the photos associated with
-            the book <Link to="/photos">here</Link>
+            the book <Link to="/photos"><button>here</button></Link>
           </p>
         </article>
       </section>

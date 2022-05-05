@@ -11,7 +11,8 @@ const data = [
     color: "primary",
     bordercolor: "dark",
     src: "/photos/1-1.jpg",
-    rotate: "rotate-left"
+    rotate: "rotate-left",
+    chapter: 1
   },
   {
       title: "Sisters giving approval to the 1st haircut",
@@ -23,7 +24,8 @@ const data = [
       color: "secondary",
       bordercolor: "dark",
       src: "/photos/1-2.jpg",
-      rotate: "rotate-middle"
+      rotate: "rotate-middle",
+      chapter: 1
   },
   {
     title: "Me and Carolyn in my wagon",
@@ -35,9 +37,48 @@ const data = [
     color: "secondary",
     bordercolor: "dark",
     src: "/photos/1-3.jpg",
-    rotate: "rotate-right"
+    rotate: "rotate-right",
+    chapter: 1
+},
+{
+  title: "Our home in High River",
+  text: "Chapter 2, page 1",
+  alt: "Our home in High River",
+  sm: "auto",
+  md: "auto",
+  lg: "auto",
+  color: "secondary",
+  bordercolor: "dark",
+  src: "/photos/2-1.jpg",
+  rotate: "rotate-right",
+  chapter: 2
+},
+{
+  title: "Our backyard with my VW bug",
+  text: "Chapter 2, page 2",
+  alt: "Our backyard with my VW bug",
+  sm: "auto",
+  md: "auto",
+  lg: "auto",
+  color: "secondary",
+  bordercolor: "dark",
+  src: "/photos/2-2.jpg",
+  rotate: "rotate-middle",
+  chapter: 2
+},
+{
+  title: "This picture was taken shortly after we moved to High River",
+  text: "Chapter 2, page 2",
+  alt: "This picture was taken shortly after we moved to High River",
+  sm: "auto",
+  md: "auto",
+  lg: "auto",
+  color: "secondary",
+  bordercolor: "dark",
+  src: "/photos/2-2-1.jpg",
+  rotate: "rotate-left",
+  chapter: 2
 }
-
   ]
 
   export default data;
