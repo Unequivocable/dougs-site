@@ -10,7 +10,7 @@ const data = [
     lg: "auto",
     color: "secondary",
     bordercolor: "dark",
-    src: "/photos/1-1.jpg",
+    src: "/pictures/1-1.jpg",
     rotate: "rotate-left",
     chapter: 1
   },
@@ -23,7 +23,7 @@ const data = [
       lg: "auto",
       color: "secondary",
       bordercolor: "dark",
-      src: "/photos/1-2.jpg",
+      src: "/pictures/1-2.jpg",
       rotate: "rotate-middle",
       chapter: 1
   },
@@ -36,7 +36,7 @@ const data = [
     lg: "auto",
     color: "secondary",
     bordercolor: "dark",
-    src: "/photos/1-3.jpg",
+    src: "/pictures/1-3.jpg",
     rotate: "rotate-right",
     chapter: 1
 },
@@ -49,7 +49,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/1-4.jpg",
+  src: "/pictures/1-4.jpg",
   rotate: "rotate-left",
   chapter: 1
 },
@@ -62,7 +62,7 @@ const data = [
     lg: "auto",
     color: "secondary",
     bordercolor: "dark",
-    src: "/photos/1-5.jpg",
+    src: "/pictures/1-5.jpg",
     rotate: "rotate-middle",
     chapter: 1
 },
@@ -75,7 +75,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/1-10.jpg",
+  src: "/pictures/1-10.jpg",
   rotate: "rotate-right",
   chapter: 1
 },
@@ -88,7 +88,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/1-11.jpg",
+  src: "/pictures/1-11.jpg",
   rotate: "rotate-left",
   chapter: 1
 },
@@ -101,7 +101,7 @@ const data = [
     lg: "auto",
     color: "secondary",
     bordercolor: "dark",
-    src: "/photos/1-12.jpg",
+    src: "/pictures/1-12.jpg",
     rotate: "rotate-middle",
     chapter: 1
 },
@@ -114,7 +114,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/1-13.jpg",
+  src: "/pictures/1-13.jpg",
   rotate: "rotate-right",
   chapter: 1
 },
@@ -127,7 +127,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/1-13-1.jpg",
+  src: "/pictures/1-13-1.jpg",
   rotate: "rotate-left",
   chapter: 1
 },
@@ -140,7 +140,7 @@ const data = [
     lg: "auto",
     color: "secondary",
     bordercolor: "dark",
-    src: "/photos/1-14.jpg",
+    src: "/pictures/1-14.jpg",
     rotate: "rotate-middle",
     chapter: 1
 },
@@ -153,7 +153,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/1-16.jpg",
+  src: "/pictures/1-16.jpg",
   rotate: "rotate-right",
   chapter: 1
 },
@@ -166,7 +166,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/1-17.jpg",
+  src: "/pictures/1-17.jpg",
   rotate: "rotate-left",
   chapter: 1
 },
@@ -179,7 +179,7 @@ const data = [
     lg: "auto",
     color: "secondary",
     bordercolor: "dark",
-    src: "/photos/1-17-1.jpg",
+    src: "/pictures/1-17-1.jpg",
     rotate: "rotate-middle",
     chapter: 1
 },
@@ -192,7 +192,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/1-18.jpg",
+  src: "/pictures/1-18.jpg",
   rotate: "rotate-right",
   chapter: 1
 },
@@ -205,7 +205,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/1-19.jpg",
+  src: "/pictures/1-19.jpg",
   rotate: "rotate-left",
   chapter: 1
 },
@@ -218,7 +218,7 @@ const data = [
     lg: "auto",
     color: "secondary",
     bordercolor: "dark",
-    src: "/photos/1-20.jpg",
+    src: "/pictures/1-20.jpg",
     rotate: "rotate-middle",
     chapter: 1
 },
@@ -231,7 +231,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/1-21.jpg",
+  src: "/pictures/1-21.jpg",
   rotate: "rotate-right",
   chapter: 1
 },
@@ -244,7 +244,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/1-22.jpg",
+  src: "/pictures/1-22.jpg",
   rotate: "rotate-left",
   chapter: 1
 },
@@ -257,7 +257,7 @@ const data = [
     lg: "auto",
     color: "secondary",
     bordercolor: "dark",
-    src: "/photos/1-23.jpg",
+    src: "/pictures/1-23.jpg",
     rotate: "rotate-middle",
     chapter: 1
 },
@@ -270,7 +270,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/1-24.jpg",
+  src: "/pictures/1-24.jpg",
   rotate: "rotate-right",
   chapter: 1
 },
@@ -283,7 +283,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/1-24-1.jpg",
+  src: "/pictures/1-24-1.jpg",
   rotate: "rotate-left",
   chapter: 1
 },
@@ -296,7 +296,7 @@ const data = [
     lg: "auto",
     color: "secondary",
     bordercolor: "dark",
-    src: "/photos/1-26.jpg",
+    src: "/pictures/1-26.jpg",
     rotate: "rotate-middle",
     chapter: 1
 },
@@ -309,7 +309,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/1-27.jpg",
+  src: "/pictures/1-27.jpg",
   rotate: "rotate-right",
   chapter: 1
 },
@@ -322,7 +322,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/2-1.jpg",
+  src: "/pictures/2-1.jpg",
   rotate: "rotate-right",
   chapter: 2
 },
@@ -335,7 +335,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/2-2.jpg",
+  src: "/pictures/2-2.jpg",
   rotate: "rotate-middle",
   chapter: 2
 },
@@ -348,7 +348,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/2-2-1.jpg",
+  src: "/pictures/2-2-1.jpg",
   rotate: "rotate-left",
   chapter: 2
 },
@@ -361,7 +361,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/2-3.jpg",
+  src: "/pictures/2-3.jpg",
   rotate: "rotate-right",
   chapter: 2
 },
@@ -374,7 +374,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/2-4.jpg",
+  src: "/pictures/2-4.jpg",
   rotate: "rotate-middle",
   chapter: 2
 },
@@ -387,7 +387,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/2-5.jpg",
+  src: "/pictures/2-5.jpg",
   rotate: "rotate-left",
   chapter: 2
 },
@@ -400,7 +400,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/2-6.jpg",
+  src: "/pictures/2-6.jpg",
   rotate: "rotate-right",
   chapter: 2
 },
@@ -413,7 +413,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/2-7.jpg",
+  src: "/pictures/2-7.jpg",
   rotate: "rotate-middle",
   chapter: 2
 },
@@ -426,7 +426,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/2-8.jpg",
+  src: "/pictures/2-8.jpg",
   rotate: "rotate-left",
   chapter: 2
 },
@@ -439,7 +439,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/2-9.jpg",
+  src: "/pictures/2-9.jpg",
   rotate: "rotate-right",
   chapter: 2
 },
@@ -452,7 +452,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/2-10.jpg",
+  src: "/pictures/2-10.jpg",
   rotate: "rotate-middle",
   chapter: 2
 },
@@ -465,7 +465,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/2-11.jpg",
+  src: "/pictures/2-11.jpg",
   rotate: "rotate-left",
   chapter: 2
 },
@@ -478,7 +478,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/2-15.jpg",
+  src: "/pictures/2-15.jpg",
   rotate: "rotate-right",
   chapter: 2
 },
@@ -491,7 +491,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/3-6.jpg",
+  src: "/pictures/3-6.jpg",
   rotate: "rotate-right",
   chapter: 3
 },
@@ -504,7 +504,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/3-12.jpg",
+  src: "/pictures/3-12.jpg",
   rotate: "rotate-middle",
   chapter: 3
 },
@@ -517,7 +517,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/3-15.jpg",
+  src: "/pictures/3-15.jpg",
   rotate: "rotate-left",
   chapter: 3
 },
@@ -530,7 +530,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/4-5.jpg",
+  src: "/pictures/4-5.jpg",
   rotate: "rotate-right",
   chapter: 4
 },
@@ -543,7 +543,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/4-9.jpg",
+  src: "/pictures/4-9.jpg",
   rotate: "rotate-middle",
   chapter: 4
 },
@@ -556,7 +556,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/4-11.jpg",
+  src: "/pictures/4-11.jpg",
   rotate: "rotate-left",
   chapter: 4
 },
@@ -569,7 +569,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/4-12.jpg",
+  src: "/pictures/4-12.jpg",
   rotate: "rotate-right",
   chapter: 4
 },
@@ -582,7 +582,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/4-15.jpg",
+  src: "/pictures/4-15.jpg",
   rotate: "rotate-middle",
   chapter: 4
 },
@@ -595,7 +595,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/4-18.jpg",
+  src: "/pictures/4-18.jpg",
   rotate: "rotate-left",
   chapter: 4
 },
@@ -608,7 +608,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/4-20.jpg",
+  src: "/pictures/4-20.jpg",
   rotate: "rotate-right",
   chapter: 4
 },
@@ -621,7 +621,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/5-5.jpg",
+  src: "/pictures/5-5.jpg",
   rotate: "rotate-right",
   chapter: 5
 },
@@ -634,7 +634,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/5-6.jpg",
+  src: "/pictures/5-6.jpg",
   rotate: "rotate-middle",
   chapter: 5
 },
@@ -647,7 +647,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/5-8.jpg",
+  src: "/pictures/5-8.jpg",
   rotate: "rotate-left",
   chapter: 5
 },
@@ -660,7 +660,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/5-10.jpg",
+  src: "/pictures/5-10.jpg",
   rotate: "rotate-right",
   chapter: 5
 },
@@ -673,7 +673,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/5-11.jpg",
+  src: "/pictures/5-11.jpg",
   rotate: "rotate-middle",
   chapter: 5
 },
@@ -686,7 +686,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/5-15.jpg",
+  src: "/pictures/5-15.jpg",
   rotate: "rotate-left",
   chapter: 5
 },
@@ -699,7 +699,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/6-10.jpg",
+  src: "/pictures/6-10.jpg",
   rotate: "rotate-right",
   chapter: 6
 },
@@ -712,7 +712,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/6-18.jpg",
+  src: "/pictures/6-18.jpg",
   rotate: "rotate-middle",
   chapter: 6
 },
@@ -725,7 +725,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/6-20.jpg",
+  src: "/pictures/6-20.jpg",
   rotate: "rotate-left",
   chapter: 6
 },
@@ -738,7 +738,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/6-25.jpg",
+  src: "/pictures/6-25.jpg",
   rotate: "rotate-right",
   chapter: 6
 },
@@ -751,7 +751,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/6-27.jpg",
+  src: "/pictures/6-27.jpg",
   rotate: "rotate-middle",
   chapter: 6
 },
@@ -764,7 +764,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/6-28.jpg",
+  src: "/pictures/6-28.jpg",
   rotate: "rotate-left",
   chapter: 6
 },
@@ -777,7 +777,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/6-30.jpg",
+  src: "/pictures/6-30.jpg",
   rotate: "rotate-right",
   chapter: 6
 },
@@ -790,7 +790,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/6-35.jpg",
+  src: "/pictures/6-35.jpg",
   rotate: "rotate-middle",
   chapter: 6
 },
@@ -803,7 +803,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/7-1.jpg",
+  src: "/pictures/7-1.jpg",
   rotate: "rotate-right",
   chapter: 7
 },
@@ -816,7 +816,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/7-18.jpg",
+  src: "/pictures/7-18.jpg",
   rotate: "rotate-middle",
   chapter: 7
 },
@@ -829,7 +829,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/7-20.jpg",
+  src: "/pictures/7-20.jpg",
   rotate: "rotate-left",
   chapter: 7
 },
@@ -842,7 +842,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/7-22.jpg",
+  src: "/pictures/7-22.jpg",
   rotate: "rotate-right",
   chapter: 7
 },
@@ -855,7 +855,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/7-24.jpg",
+  src: "/pictures/7-24.jpg",
   rotate: "rotate-middle",
   chapter: 7
 },
@@ -868,7 +868,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/7-27.jpg",
+  src: "/pictures/7-27.jpg",
   rotate: "rotate-left",
   chapter: 7
 },
@@ -881,7 +881,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/7-28.jpg",
+  src: "/pictures/7-28.jpg",
   rotate: "rotate-right",
   chapter: 7
 },
@@ -894,7 +894,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/9-1.jpg",
+  src: "/pictures/9-1.jpg",
   rotate: "rotate-right",
   chapter: 9
 },
@@ -907,7 +907,7 @@ const data = [
   lg: "auto",
   color: "secondary",
   bordercolor: "dark",
-  src: "/photos/15-1.jpg",
+  src: "/pictures/15-1.jpg",
   rotate: "rotate-middle",
   chapter: 15
 }
