@@ -13,7 +13,7 @@ const App = () => {
     <Container fluid>
       <HashRouter>
         <Row className="justify-content-center">
-          <Col xs="10" sm="8" md="8" lg="6">
+          <Col xs="12" sm="12" md="10" lg="8">
             <Switch>
               <Route path="/" component={Ebook} exact />
               <Route path="/about" component={About} />

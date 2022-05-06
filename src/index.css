@@ -19,7 +19,7 @@ h1, h3 {
   padding: 30px;
   border: 3px solid black;
   border-radius: 8px;
-  background-color: #fff7ec;
+  background-color: #fdf9f3;
 }
 
 .new-border {
@@ -48,4 +48,26 @@ h1, h3 {
 }
 .rotate-middle {
   transform: rotate(0deg);
+}
+
+ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+}
+
+li {
+  padding: 2px ;
+}
+
+button {
+  border: 1px solid #2c3347;
+  background-color: #fff7ec;
+}
+
+button:hover {
+  background-color: #2c3347;
+  color: #fbe7cd;
 }
