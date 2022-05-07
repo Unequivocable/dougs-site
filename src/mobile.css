@@ -1,0 +1,82 @@
+@media only screen and (max-width: 768px) {
+  
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #041832;
+    background-color: #fbe7cd;
+    background-image: url(/src/database/background.jpg);
+  }
+  
+  h1, h3 {
+    font-family: 'Kaisei HarunoUmi', serif;
+  }
+  
+  .portfolio {
+    margin-top: 5%;
+    padding: 30px;
+    border: 3px solid #041832;
+    border-radius: 8px;
+    background-color: #fdf9f3;
+  }
+  
+  .new-border {
+    border-image-source: url(/src/database/blackPhotoCornersmall.png);
+    border-image-slice: 20%;
+    border-image-width: auto;
+    border-image-outset: 5;
+    border-image-repeat: round;
+    border-style: solid;
+    outline: solid;
+    outline-offset: -5px;
+    padding: 8px;
+    margin: 20px 0;
+  }
+  
+  .centre {
+    text-align: center;
+  }
+  
+  .rotate-left {
+    transform: rotate(.1deg);
+  }
+  
+  .rotate-right {
+    transform: rotate(-.2deg);
+  }
+  .rotate-middle {
+    transform: rotate(0deg);
+  }
+  
+  ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+  }
+  
+  li {
+    padding: 2px ;
+  }
+  
+  button {
+    border: 1px solid #181411;
+    border-radius: 4px;
+    background-color: #e7ebee;
+  }
+  
+  button:hover {
+    background-color: #ffddae;
+  }
+  
+  button:active {
+    background-color: #181411;
+    color: #e7ebee;
+    border: 1px inset #181411;
+  }
+}
