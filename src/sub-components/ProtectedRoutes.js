@@ -11,7 +11,7 @@ const ProtectedRoute = ({ component: Component, ...rest }) => {
         if(res === process.env.REACT_APP_PASSWORD){
           return <Component {...rest} {...props} />
         } else {
-          alert("You do not have permission to access the ebook")
+          alert("You do not have permission to access the photos")
           return           <Redirect
             to={{
               pathname: "/",
