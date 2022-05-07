@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #2c3347;
+  color: #041832;
   background-color: #fbe7cd;
   background-image: url(/src/database/background.jpg);
 }
@@ -17,7 +17,7 @@ h1, h3 {
 .portfolio {
   margin-top: 5%;
   padding: 30px;
-  border: 3px solid black;
+  border: 3px solid #041832;
   border-radius: 8px;
   background-color: #fdf9f3;
 }
@@ -63,11 +63,17 @@ li {
 }
 
 button {
-  border: 1px solid #2c3347;
-  background-color: #fff7ec;
+  border: 1px solid #181411;
+  border-radius: 4px;
+  background-color: #e7ebee;
 }
 
 button:hover {
-  background-color: #2c3347;
-  color: #fbe7cd;
+  background-color: #ffddae;
+}
+
+button:active {
+  background-color: #181411;
+  color: #e7ebee;
+  border: 1px inset #181411;
 }
