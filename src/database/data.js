@@ -1104,7 +1104,7 @@ const data = [
     chapter: 7,
   },
   {
-    title: "Buffy",
+    title: "Buffy and Snoopy",
     sm: "auto",
     md: "auto",
     lg: "auto",
@@ -1640,7 +1640,7 @@ const data = [
     bordercolor: "dark",
     src: "/pictures/17-4-1.jpg",
     rotate: "rotate-middle",
-    chapter: 9,
+    chapter: 17,
   },
   {
     title: "Project Manager Per",
@@ -1660,7 +1660,7 @@ const data = [
     lg: "auto",
     color: "secondary",
     bordercolor: "dark",
-    src: "/pictures/17-4-2.jpg",
+    src: "/pictures/17-4-3.jpg",
     rotate: "rotate-right",
     chapter: 17,
   },
