@@ -1939,7 +1939,28 @@ const data = [
     rotate: "rotate-right",
     chapter: 20,
   },
-
+  {
+    title: "Gerald, Ruth, Simon and Joel Nygren",
+    sm: "auto",
+    md: "auto",
+    lg: "auto",
+    color: "secondary",
+    bordercolor: "dark",
+    src: "/pictures/14-1.jpg",
+    rotate: "rotate-middle",
+    chapter: 14,
+  },
+  {
+    title: "Gerald, Ruth, Simon and Joel Nygren",
+    sm: "auto",
+    md: "auto",
+    lg: "auto",
+    color: "secondary",
+    bordercolor: "dark",
+    src: "/pictures/16-16.jpg",
+    rotate: "rotate-right",
+    chapter: 16,
+  },
 
 ];
 
