@@ -774,7 +774,7 @@ const data = [
     chapter: 5,
   },
   {
-    title: "Christmas harvesting our Christmas tree 1963",
+    title: "Christmas harvesting our Christmas tree 1973",
     sm: "auto",
     md: "auto",
     lg: "auto",
@@ -785,7 +785,7 @@ const data = [
     chapter: 5,
   },
   {
-    title: "Dix, Donna and about to be born Denna 1963",
+    title: "Dix, Donna and about to be born Denna 1973",
     sm: "auto",
     md: "auto",
     lg: "auto",
