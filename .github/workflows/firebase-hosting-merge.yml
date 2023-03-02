@@ -14,9 +14,9 @@ jobs:
         with:
           node-version: 16
       - name: Install Dependencies
-        cmd: sudo npm i
+        run: sudo npm i
       - name: Build Prod App
-        cmd: npm run build
+        run: sudo npm run build
         env:
             REACT_APP_PASSWORD: ${{secrets.EBOOK_PASSWORD}}
       - uses: FirebaseExtended/action-hosting-deploy@v0
