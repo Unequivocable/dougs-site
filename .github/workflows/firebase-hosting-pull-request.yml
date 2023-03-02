@@ -9,6 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          node-version: 16
       - name: Install Dependencies
         run: sudo npm i
       - name: Build Prod App
