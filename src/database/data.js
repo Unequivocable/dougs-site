@@ -785,7 +785,7 @@ const data = [
     chapter: 5,
   },
   {
-    title: "Dix, Donna and about to be born Denna 1973",
+    title: "Dix, Donna and about-to-be-born Denna 1973",
     sm: "auto",
     md: "auto",
     lg: "auto",
